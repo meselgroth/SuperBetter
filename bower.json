@@ -1,0 +1,21 @@
+{
+  "name": "SuperBetter",
+  "version": "0.0.0",
+  "homepage": "https://github.com/meselgroth/SuperBetter",
+  "authors": [
+    "meselgroth <michael.eselgroth@hotels4u.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.2.15",
+    "angular": "~1.2.15"
+  }
+}
