@@ -1,8 +1,8 @@
 {
-  physical:['stretch','stand up'],
-  mental:['js code kata'],
-  emotional:{
-    photo:'https://onedrive.live.com/#cid=F0208DBD8F96ED0A&id=F0208DBD8F96ED0A%216180&v=3'
+  "physical":["stretch","stand up"],
+  "mental":["js code kata"],
+  "emotional":{
+    "photo":"https://scontent-b-lhr.xx.fbcdn.net/hphotos-prn2/t1.0-9/1781917_10152255627643188_421273889_n.jpg"
   },
-  social:['say thanks','message hello','call someone']
+  "social":["say thanks","message hello","call someone"]
 }
